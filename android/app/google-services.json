@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "279616741503",
+    "firebase_url": "https://healingg-10466.firebaseio.com",
+    "project_id": "healingg-10466",
+    "storage_bucket": "healingg-10466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279616741503:android:a87953431e9d4d06",
+        "android_client_info": {
+          "package_name": "com.healingg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279616741503-618mvahods1d74mlgl5s1da4s8d7rnq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healingg",
+            "certificate_hash": "a1349afb9e84b57a541f3fa1df6a961bce801197"
+          }
+        },
+        {
+          "client_id": "279616741503-8qclmdpsenk6tbb7gt1esbt905bdp6md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healingg",
+            "certificate_hash": "cc1c06689c5212522a88117cb8e3f9cc16013a77"
+          }
+        },
+        {
+          "client_id": "279616741503-nml95ck8lpr3bqsofp26pjsv7oq82mhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWTsXVH26-WbwXZzJo03t0NsohsL9Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279616741503-nml95ck8lpr3bqsofp26pjsv7oq82mhg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "279616741503-2clt91uj3he9f9okjhu1i8vv26ccjjpm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.healingg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279616741503:android:47c9008ceff73638",
+        "android_client_info": {
+          "package_name": "com.healinggg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279616741503-57l8vhp89ril4el098rpv0c6hbvuf0a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healinggg",
+            "certificate_hash": "cbcf836282d4bb6fa74fcaadb01bb6abb53943f7"
+          }
+        },
+        {
+          "client_id": "279616741503-nml95ck8lpr3bqsofp26pjsv7oq82mhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWTsXVH26-WbwXZzJo03t0NsohsL9Q78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279616741503-nml95ck8lpr3bqsofp26pjsv7oq82mhg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "279616741503-2clt91uj3he9f9okjhu1i8vv26ccjjpm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.healingg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

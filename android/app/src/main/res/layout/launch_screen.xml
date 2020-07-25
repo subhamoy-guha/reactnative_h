@@ -1,0 +1,41 @@
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--              xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--              xmlns:tools="http://schemas.android.com/tools"-->
+<!--              android:layout_width="match_parent"-->
+<!--              android:layout_height="match_parent"-->
+<!--              android:orientation="vertical"-->
+<!--              android:background="@drawable/splash_new"-->
+<!--              android:scaleType="center"-->
+<!--&gt;-->
+
+
+<!--    &lt;!&ndash;<ImageView&ndash;&gt;-->
+<!--    &lt;!&ndash;     android:layout_marginTop="250px"&ndash;&gt;-->
+<!--    &lt;!&ndash;    android:layout_gravity="center"&ndash;&gt;-->
+<!--    &lt;!&ndash;    android:layout_width="450px"&ndash;&gt;-->
+<!--    &lt;!&ndash;    android:layout_height="400px"&ndash;&gt;-->
+<!--    &lt;!&ndash;    android:background="@drawable/white_logo"&ndash;&gt;-->
+
+<!--    &lt;!&ndash;    />&ndash;&gt;-->
+<!--</LinearLayout>-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+            android:id="@drawable/splash_new"
+            android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:scaleType="centerCrop"
+    android:src="@drawable/healing_splash" />
+    <LinearLayout
+            android:id="@+id/main_root"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+    </LinearLayout>
+</RelativeLayout>
